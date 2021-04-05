@@ -1,5 +1,6 @@
 
-let array = [1,7,1,1,1,1];
+//let array = [1,7,1,1,1,1];
+let array = [2,3,5,6,1];
 let [indexL,largest] = getlargestNumber(array);
 let minJumps = Number.MAX_VALUE;
 
